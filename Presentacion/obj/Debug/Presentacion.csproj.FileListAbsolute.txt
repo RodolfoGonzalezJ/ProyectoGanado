@@ -1,0 +1,54 @@
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Formularios.FrmGanado.resources
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Entidad.dll
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Datos.dll
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Entidad.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Datos.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Formularios.FrmGanado.resources
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Entidad.dll
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Formularios.FrmGanado.resources
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Desktop\ProyectoGanado\Presentacion\obj\Debug\Presentacion.pdb

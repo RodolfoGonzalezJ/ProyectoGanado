@@ -1,0 +1,18 @@
+C:\Users\angel\source\repos\ProyectoGanado\Datos\bin\Debug\Datos.dll
+C:\Users\angel\source\repos\ProyectoGanado\Datos\bin\Debug\Datos.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Datos\bin\Debug\Entidad.dll
+C:\Users\angel\source\repos\ProyectoGanado\Datos\bin\Debug\Entidad.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\ProyectoGanado\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ProyectoGanado\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\angel\source\repos\ProyectoGanado\Datos\obj\Debug\Datos.dll
+C:\Users\angel\source\repos\ProyectoGanado\Datos\obj\Debug\Datos.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\bin\Debug\Datos.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\bin\Debug\Datos.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\bin\Debug\Entidad.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\bin\Debug\Entidad.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\obj\Debug\Datos.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Datos\obj\Debug\Datos.pdb

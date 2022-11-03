@@ -1,0 +1,22 @@
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Negocio.dll
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Negocio.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Datos.dll
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Entidad.dll
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Datos.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\bin\Debug\Entidad.pdb
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\obj\Debug\Negocio.dll
+C:\Users\angel\source\repos\ProyectoGanado\Negocio\obj\Debug\Negocio.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Negocio.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Negocio.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Datos.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Entidad.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Datos.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\bin\Debug\Entidad.pdb
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\obj\Debug\Negocio.dll
+C:\Users\ANIBAL FUENTES\OneDrive\Escritorio\Prueba\ProyectoGanado\Negocio\obj\Debug\Negocio.pdb
